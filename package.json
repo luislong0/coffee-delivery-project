@@ -2,7 +2,6 @@
   "name": "coffee-delivery-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "coffee-delivery-project/",
   "type": "module",
   "scripts": {
     "dev": "vite",
