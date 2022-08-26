@@ -261,7 +261,9 @@ export function CoffeeContextProvider({
     setPaymentSelectorValue(e.target.value)
     console.log(paymentSelectorValue)
     console.log(addressCompleted);
-
+    $activeButton.forEach(function(active){
+      active.classList.remove("active");
+    });
 
     if (paymentSelectorValue === "Cartão de crédito") {
       $activeButton.forEach(function(active){
