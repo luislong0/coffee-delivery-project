@@ -1,7 +1,7 @@
 {
   "name": "coffee-delivery-project",
   "private": true,
-  "homepage": "https://luislong0.github.io/coffee-delivery-project/",
+  "homepage": "http://luislong0.github.io/coffee-delivery-project/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
